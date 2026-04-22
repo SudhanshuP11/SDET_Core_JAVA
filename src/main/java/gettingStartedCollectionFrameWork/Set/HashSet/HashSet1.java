@@ -11,5 +11,7 @@ public class HashSet1 {
         set.add("World");
         set.add("HelloJI");
         System.out.println(set);
+        set.remove("World");
+        System.out.println(set);
     }
 }
