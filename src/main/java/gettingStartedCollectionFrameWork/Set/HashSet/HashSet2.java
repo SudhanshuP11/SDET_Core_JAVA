@@ -10,7 +10,10 @@ public class HashSet2 {
         set.add(3);
         set.add(4);
         set.add(5);
-        System.out.println(set);
-        System.out.println(set.contains(1));
+//        System.out.println(set);
+//        System.out.println(set.contains(1));
+        for(int a:set){
+            System.out.println(a);
+        }
     }
 }
