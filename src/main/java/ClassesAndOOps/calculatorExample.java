@@ -1,5 +1,5 @@
 package ClassesAndOOps;
-
+//methods that return the value
 class Calculator {
     int num1;
     int num2;
